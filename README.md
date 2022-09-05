@@ -1,0 +1,1 @@
+# RFM-Analizi-ve-Musteri-Segmentasyonu
